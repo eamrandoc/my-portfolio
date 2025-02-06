@@ -1,0 +1,81 @@
+[
+    {
+      "id": 1,
+      "title": "Responsive Design",
+      "description": "Ensure your website looks great on any device, with layouts that adapt to different screen sizes seamlessly.",
+      "icon": "🌐"
+    },
+    {
+      "id": 2,
+      "title": "Custom React Development",
+      "description": "Build dynamic, high-performance, and scalable web applications tailored to your business needs with React.",
+      "icon": "⚛️"
+    },
+    {
+      "id": 3,
+      "title": "Component Development",
+      "description": "Develop reusable and maintainable UI components using React to optimize performance and enhance user experience.",
+      "icon": "🔧"
+    },
+    {
+      "id": 4,
+      "title": "Single-Page Applications (SPA)",
+      "description": "Create fast and efficient SPAs with React for a smooth, app-like user experience.",
+      "icon": "📱"
+    },
+    {
+      "id": 5,
+      "title": "State Management",
+      "description": "Implement efficient state management solutions with tools like Redux or Context API to ensure consistent app behavior.",
+      "icon": "📊"
+    },
+    {
+      "id": 6,
+      "title": "API Integration",
+      "description": "Integrate third-party APIs and backend services to enrich your web application with dynamic data and features.",
+      "icon": "🔗"
+    },
+    {
+      "id": 7,
+      "title": "React Native Development",
+      "description": "Extend React expertise to mobile apps with React Native for building cross-platform apps on iOS and Android.",
+      "icon": "📲"
+    },
+    {
+      "id": 8,
+      "title": "Performance Optimization",
+      "description": "Enhance web app performance using techniques like code splitting, lazy loading, and minimizing re-renders.",
+      "icon": "⚡"
+    },
+    {
+      "id": 9,
+      "title": "Testing & Debugging",
+      "description": "Conduct comprehensive testing with tools like Jest, React Testing Library, and Cypress to ensure a bug-free application.",
+      "icon": "🔍"
+    },
+    {
+      "id": 10,
+      "title": "SEO Best Practices for React Apps",
+      "description": "Implement SSR with Next.js or React Helmet to improve the SEO of your React-based web applications.",
+      "icon": "📈"
+    },
+    {
+      "id": 11,
+      "title": "Continuous Integration & Deployment",
+      "description": "Automate workflows with CI/CD pipelines to enable faster and more reliable deployments.",
+      "icon": "🔄"
+    },
+    {
+      "id": 12,
+      "title": "Code Quality & Best Practices",
+      "description": "Write clean, modular, and maintainable code while adhering to React best practices and modern JavaScript standards.",
+      "icon": "🧑‍💻"
+    },
+    {
+      "id": 13,
+      "title": "Consultation & Code Review",
+      "description": "Offer expert advice and code reviews to enhance the architecture and quality of your React projects.",
+      "icon": "💬"
+    }
+  ]
+  

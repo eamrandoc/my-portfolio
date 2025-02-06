@@ -1,5 +1,5 @@
 import { motion } from "motion/react"
-
+import profile from "../../../assets/profile _picture.jpg"
 const Banner = () => {
     // Function to split text into individual letters and preserve spaces
     const splitText = (text) => {
@@ -24,8 +24,8 @@ const Banner = () => {
             <div className="hero bg-base-200">
                 <div className="hero-content flex-col lg:flex-row-reverse">
                     <motion.img
-                        src="https://img.daisyui.com/images/stock/photo-1635805737707-575885ab0820.webp"
-                        className="max-w-sm rounded-lg shadow-2xl"
+                        src={profile}
+                        className="max-w-sm rounded-2xl shadow-2xl"
                         initial={{ opacity: 0, x: 50 }}
                         animate={{ opacity: 1, x: 0 }}
                         transition={{ duration: 1 }}
