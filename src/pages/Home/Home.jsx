@@ -1,9 +1,12 @@
-import React from 'react';
+import Banner from "./components/Banner";
+import Statistics from "./components/Statistics";
 
 const Home = () => {
     return (
         <div>
-            THis is home
+            <Banner></Banner>
+            <Statistics></Statistics>
+            
         </div>
     );
 };
